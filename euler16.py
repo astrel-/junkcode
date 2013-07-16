@@ -2,7 +2,6 @@
 #Problem 16
 #real	0m0.079s
 
-#1
 def doubleNumber(li):
     """
     a is reversed list of digits in number
