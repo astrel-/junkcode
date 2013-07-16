@@ -4,7 +4,7 @@
 
 def doubleNumber(li):
     """
-    a is reversed list of digits in number
+    li is reversed list of digits in number
     returns reversed list of digits in 2*number
     """
     digit = 0
